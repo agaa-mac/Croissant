@@ -6,3 +6,12 @@ p,
 body {
   background-color: rgb(3, 174, 253, 0.2);
 }
+a {
+  padding: 5px 10px;
+}
+.photo-croissant {
+  display: block;
+  margin: 0 auto;
+  width: 700px;
+  border-radius: 10px;
+}
